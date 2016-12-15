@@ -1,3 +1,22 @@
+# Egghead "Start Using React to Build Web Applications"
+
+This is an experiment with using version control in my studies.
+The plan is, whilst learning my chosen topic ([React in this case](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup)),
+I can also practice git commands, atomic commits, and crafting commit messages.
+I also wanted an easier way for my team and mentors to keep track of my progress
+and to identify when I might have missed an important aspect of a topic.
+
+Each commit should have a title written in the imperative,
+followed by a body which explains what I've learnt in my own words.
+Tags signify the end of a video/chapter, and may be abandoned if not useful.
+
+If you are reading this, please feel free to offer advice on this idea
+or examples of similar methods others have used.
+
+Below is the default README generated from create-react-app.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -911,7 +930,7 @@ This feature is experimental and still [has major usage issues](https://github.c
 
 ### Editor Integration
 
-If you use [Visual Studio Code](https://code.visualstudio.com), there is a [Jest extension](https://github.com/orta/vscode-jest) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates. 
+If you use [Visual Studio Code](https://code.visualstudio.com), there is a [Jest extension](https://github.com/orta/vscode-jest) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates.
 
 ![VS Code Jest Preview](https://cloud.githubusercontent.com/assets/49038/20795349/a032308a-b7c8-11e6-9b34-7eeac781003f.png)
 
